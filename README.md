@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100px" alt="Delivr" src="./logo.png">
+<img width="100px" alt="Delivr" src="https://www.delivr.dpdns.org/logo.png">
 
 # Delivr
 
